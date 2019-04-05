@@ -12,7 +12,7 @@ $ git remote add < local name > < repository url >
 <li>確認狀態</br>
 $ git status
 <li>加入索引</br>
-$ git add.
+$ git add .
 <li>加入commit紀錄</br>
 $ git commit -m 'Update Message'
 <li>顯示歷史紀錄</br>
